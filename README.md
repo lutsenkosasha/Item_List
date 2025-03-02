@@ -20,7 +20,7 @@
 ## Установка и запуск проекта   
 1. Склонируйте репозиторий:
    ```bash   
-   git clone https://github.com/your-username/your-repo-name.git   
+   git clone https://github.com/lutsenkosasha/Item_List.git   
 3. Установите зависимости:
    ```bash
    npm install 
