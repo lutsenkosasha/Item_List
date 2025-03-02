@@ -18,10 +18,13 @@
 - Перетаскивание (Drag & Drop): Пользователь может перетаскивать элементы между колонками.   
 
 ## Установка и запуск проекта
-1. Склонируйте репозиторий: `bash git clone https://github.com/your-username/your-repo-name.git
-2. Установите зависимости: `bash npm install
-3. Запустите проект: `bash node server.js
-                      cd frontend
-                      npm start
+1. Склонируйте репозиторий: ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+3. Установите зависимости: ```bash
+   npm install
+5. Запустите проект: ```bash
+   node server.js
+   cd frontend
+   npm start
 
 ## Развернутый проект: 
