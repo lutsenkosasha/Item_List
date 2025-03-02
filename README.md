@@ -1,4 +1,4 @@
-### Item List with Search, Select and Drag & Drop
+# Item List with Search, Select and Drag & Drop
 ## Описание
 Этот проект представляет собой веб-приложение - список, состоящий из 1000000 элементов, приложение позволяет пользователям:   
 
@@ -20,8 +20,9 @@
 ## Установка и запуск проекта   
 1. Склонируйте репозиторий: ```bash   
    git clone https://github.com/your-username/your-repo-name.git   
-3. Установите зависимости: ```bash   
-   npm install   
+3. Установите зависимости:
+   ```bash
+   npm install 
 5. Запустите проект: ```bash   
    node server.js   
    cd frontend   
