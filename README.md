@@ -30,4 +30,4 @@
    cd frontend   
    npm start   
 
-## Развернутый проект: 
+## Развернутый проект: https://item-list-frontend-1.onrender.com/
