@@ -17,14 +17,14 @@
 - Выбор: Каждый элемент списка можно выбрать с помощью чекбокса.   
 - Перетаскивание (Drag & Drop): Пользователь может перетаскивать элементы между колонками.   
 
-## Установка и запуск проекта
-1. Склонируйте репозиторий: ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-3. Установите зависимости: ```bash
-   npm install
-5. Запустите проект: ```bash
-   node server.js
-   cd frontend
-   npm start
+## Установка и запуск проекта   
+1. Склонируйте репозиторий: ```bash   
+   git clone https://github.com/your-username/your-repo-name.git   
+3. Установите зависимости: ```bash   
+   npm install   
+5. Запустите проект: ```bash   
+   node server.js   
+   cd frontend   
+   npm start   
 
 ## Развернутый проект: 
